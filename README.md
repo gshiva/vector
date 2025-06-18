@@ -8,7 +8,8 @@
     <a href="https://vector.dev/releases/latest/download/">Download</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="https://rust-doc.vector.dev/">Rust Crate Docs</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
     <a href="docs/guides/development_best_practices.md">Development Guide</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
-    <a href="docs/guides/pull_request_workflow.md">Pull Request Guide</a>
+    <a href="docs/guides/pull_request_workflow.md">Pull Request Guide</a>&nbsp;&nbsp;&bull;&nbsp;&nbsp;
+    <a href="docs/guides/vector_based_observability_reduction_framework.md">Observability Framework</a>
   </strong>
 </p>
 <p align="center">
