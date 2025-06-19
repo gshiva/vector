@@ -1,0 +1,9 @@
+[package]
+name = "vector-baseline"
+version = "0.1.0"
+edition = "2021"
+authors = ["Vector Contributors <vector@datadoghq.com>"]
+publish = false
+
+[dependencies]
+anyhow.workspace = true

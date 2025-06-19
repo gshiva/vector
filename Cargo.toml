@@ -117,6 +117,7 @@ members = [
   "lib/tracing-limit",
   "lib/vector-api-client",
   "lib/vector-buffers",
+  "lib/vector-baseline",
   "lib/vector-common",
   "lib/vector-config",
   "lib/vector-config-common",

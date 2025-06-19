@@ -1,0 +1,21 @@
+# Example pipeline using built-in components as placeholders
+
+sources:
+  generator:
+    type: generator
+    lines: ["hello"]
+    batch_interval: 1
+
+transforms:
+  baseline:
+    type: remap
+    inputs: ["generator"]
+    source: |
+      .message = "baseline: " + .message
+
+sinks:
+  out:
+    type: console
+    inputs: ["baseline"]
+    encoding:
+      codec: text

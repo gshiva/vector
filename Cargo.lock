@@ -11684,6 +11684,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "vector-baseline"
+version = "0.1.0"
+dependencies = [
+ "anyhow",
+]
+
+[[package]]
 name = "vector-buffers"
 version = "0.1.0"
 dependencies = [

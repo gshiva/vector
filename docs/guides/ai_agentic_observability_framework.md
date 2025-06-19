@@ -1,6 +1,8 @@
-# Vector-Based Pluggable Observability Reduction Framework
+# AI Agentic Observability Framework
 
-*Date generated: 2025-06-18*
+Date generated: 2025-06-18
+
+<!-- markdownlint-disable MD013 MD022 MD031 MD032 MD036 MD012 -->
 
 ---
 

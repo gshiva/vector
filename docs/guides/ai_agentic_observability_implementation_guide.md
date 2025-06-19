@@ -1,10 +1,14 @@
-# Observability Reduction Framework Implementation Guide
+# AI Agentic Observability Implementation Guide
 
 This guide lists incremental tasks for implementing the
-[Vector-Based Pluggable Observability Reduction Framework](vector_based_observability_reduction_framework.md).
+[AI Agentic Observability Framework](ai_agentic_observability_framework.md).
 It references [ARCHITECTURE.md](../ARCHITECTURE.md) and starts with simple placeholders.
 
 Each step includes a verification hint so it can be fed to Codex.
+After completing a task, wire the current placeholders into the example
+pipeline from step 8 and run Vector to verify the end-to-end flow. This
+early feedback loop helps catch integration issues before implementing
+the real logic in each module.
 
 ## Tasks
 
@@ -50,4 +54,4 @@ Each step includes a verification hint so it can be fed to Codex.
     - **Verify**: the full test suite continues to pass and the pipeline behaves
       as expected.
 
-Follow these tasks sequentially to build a working observability reduction framework.
+Follow these tasks sequentially to build a working AI agentic observability framework.
